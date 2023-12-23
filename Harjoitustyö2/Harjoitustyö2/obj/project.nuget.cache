@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "v8fA4cB4GW2llJMp6QDVVPZxa/B5W7x2y5GX9YMTLxQUoilaJ00cu/i7xsplhkyGRYCPRYHRSfcB7cnWDUrzuQ==",
+  "success": false,
+  "projectFilePath": "M:\\algoritmit\\Harjoitustyö2\\Harjoitustyö2\\Harjoitustyö2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k2102658\\.nuget\\packages\\microsoft.data.sqlite\\7.0.0\\microsoft.data.sqlite.7.0.0.nupkg.sha512",
+    "C:\\Users\\k2102658\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.9\\microsoft.data.sqlite.core.6.0.9.nupkg.sha512",
+    "C:\\Users\\k2102658\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.2\\sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\k2102658\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\k2102658\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\k2102658\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\k2102658\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\k2102658\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512",
+    "C:\\Users\\k2102658\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Detected package downgrade: Microsoft.Data.Sqlite.Core from 7.0.0 to 6.0.9. Reference the package directly from the project to select a different version. \r\n Harjoitustyö2 -> Microsoft.Data.Sqlite 7.0.0 -> Microsoft.Data.Sqlite.Core (>= 7.0.0) \r\n Harjoitustyö2 -> Microsoft.Data.Sqlite.Core (>= 6.0.9)",
+      "libraryId": "Microsoft.Data.Sqlite.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
